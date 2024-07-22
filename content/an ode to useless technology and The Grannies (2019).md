@@ -1,6 +1,6 @@
 ---
 title: an ode to useless technology and the grannies (2019)
-draft: "False"
+draft: "false"
 ---
 
 In a dark room on the ground floor of the Australian Centre for Moving Images (ACMI), cross-cut by two tall projector screens, I first came across [The Grannies (2019)](https://youtu.be/FM9CqgIve_o?si=-2Nnk56bdyhL2XCO). It's a 16 minute short film with travelogue-style narration, following a group of four players, Andrew Brophy, Marigold 'Goldie' Bartlett, Ian MacLarty and Kalonica Quigley in their exploration out of the bounds of the world in the game Red Dead Online. At the edge of the world, they exploited a bug to glitch out of constructed expanses of the world, and into the rogue spaces that are the vestiges of the coding and development behind the game. 

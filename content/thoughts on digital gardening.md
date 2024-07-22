@@ -1,6 +1,6 @@
 ---
 title: thoughts on digital gardening
-draft: "True"
+draft: "true"
 ---
 
 Unfortunately, I can never resist the urge to be metatextual. 
