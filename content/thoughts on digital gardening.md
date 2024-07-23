@@ -25,6 +25,7 @@ In short, the 'authorial ego' presupposes that this specific act of creation I h
 Where does the authorial ego lead me in the case of digital gardens? 
 
 **The form of Digital Gardens**
+
 Articles on digital gardens have variously described them as:
 - free-form, work-in-progress wikis ([Maggie Appleton, A Brief History and Ethos of the Digital Garden](https://maggieappleton.com/garden-history))
 - a sort of experience generator, capable of infinite expression and meaning ([Mike Caufield, The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/))
@@ -63,6 +64,7 @@ Before I started writing this reflection, this fact seemed somewhat fatal to the
 - I'm not sure that digital gardens actually get rid of the 'performative' element of creating online. In fact, I think there's the risk that it exposes internal aspects of the act of creation to scrutiny: this is loosely inspired by this [CJ the X video on Art Sins](https://www.youtube.com/watch?v=dMpJFbwR8OM) , and is definitely a topic I want to write more on. 
 
 **Summary**
+
 How does the digital garden meet the problem of the authorial ego? It is not the individual piece that the author has created which is justified by its value, but this method of engaging with information itself: something about the broader way of thinking and interacting online that digital gardens engages in and promotes is important.
 
 As a writer, I want to be held accountable on my digital garden. I want my thoughts and my curation to have value. Personally, I believe this is best achieved through 
