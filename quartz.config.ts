@@ -28,12 +28,12 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
+          light: "#E0EBF6",  //background
+          lightgray: " #ffc2b3", //searchbar + borders
+          gray: "#284b63", //underline details
+          darkgray: "#284b63",
+          dark: "#ec5935", // title + explorer, graph view, backlinks
+          secondary: "#284b63", //'inkfish garden' line
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
