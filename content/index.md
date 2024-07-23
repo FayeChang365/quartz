@@ -8,7 +8,7 @@ It's still very much a work-in-progress, but I'm planning to publish writing inc
 - longer-form writing
 - and anything else that might not be publish-able in a proper magazine, journal, or newspaper
 
-Would love to hear any comments you have, but in order to write them down, you're going to have to reload the website and sign in with GitHub. 
+Would love to hear any comments you have, but in order to write them on any given page, you're going to have to reload the page and sign in with GitHub for the comment box. Will hopefully be making it less of a hassle soon!
 
 Thank you for visiting! Hope you enjoy your wander through.
 
