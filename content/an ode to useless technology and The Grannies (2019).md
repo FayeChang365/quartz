@@ -1,5 +1,5 @@
 ---
-title: an ode to useless technology and the grannies (2019)
+title: an ode to useless technology and The Grannies (2019)
 draft: false
 ---
 **Encountering**
